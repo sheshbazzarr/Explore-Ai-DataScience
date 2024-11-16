@@ -77,9 +77,8 @@ At the end of each course, you will work on a **final project** to apply the con
 - **Text Classification for Water Crisis**: Build a model to classify text data related to water crisis news and reports.
 - **Clustering Data for Insights**: Use unsupervised learning techniques to find patterns in the water crisis data.
 
-
-## flowchart 
-
+## flowchart
+```mermaid
 flowchart TD
     A[Start: Explore AI - Data Science] --> B[Preparing Data]
     A --> C[SQL]
@@ -123,6 +122,7 @@ flowchart TD
     I --> I1[AWS Security & Networking]
     I --> I2[AWS Economics & Global Infrastructure]
     I --> I3[Final Project: Deploying AI Models on AWS]
+
 
 
 ## Folder Structure
