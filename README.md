@@ -78,7 +78,6 @@ At the end of each course, you will work on a **final project** to apply the con
 - **Clustering Data for Insights**: Use unsupervised learning techniques to find patterns in the water crisis data.
 
 ## flowchart
-```mermaid
 flowchart TD
     A[Start: Explore AI - Data Science] --> B[Preparing Data]
     A --> C[SQL]
@@ -123,8 +122,3 @@ flowchart TD
     I --> I2[AWS Economics & Global Infrastructure]
     I --> I3[Final Project: Deploying AI Models on AWS]
 
-
-
-## Folder Structure
-
-/ExploreAI ├── PreparingData │ ├── Module1 │ ├── Module2 │ └── README.md ├── SQL │ ├── Module1 │ ├── Module2 │ └── README.md ├── DataVisualization │ ├── Module1 │ ├── Module2 │ └── README.md ├── Python │ ├── Module1 │ ├── Module2 │ └── README.md ├── Regression │ ├── Module1 │ ├── Module2 │ └── README.md ├── NLP │ ├── Module1 │ ├── Module2 │ └── README.md ├── UnsupervisedLearning │ ├── Module1 │ ├── Module2 │ └── README.md ├── AWSFoundations │ ├── Module1 │ ├── Module2 │ └── README.md └── FinalProjects ├── Project1 ├── Project2 └── README.md
